@@ -14,7 +14,7 @@ This repository contains an adapted version of the Pixel-DTB-Firmware to simulat
 ## Building the Firmware
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pixel-dtb-firmware-dstv.git
+   git clone https://github.com/nekrosvasilias/pixel-dtb-firmware-dstv.git
    cd pixel-dtb-firmware-dstv
    ```
 2. Build the firmware:
